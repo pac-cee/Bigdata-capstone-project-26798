@@ -60,8 +60,7 @@ data/processed/*_processed.csv
 !data/processed/ml_results.json
 !data/processed/processing_summary.csv
 
-# Screenshots (keep for documentation but not in main repo)
-screenshots/
+
 
 # Temporary files
 *.tmp
