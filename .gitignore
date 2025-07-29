@@ -49,10 +49,16 @@ crypto_analysis.log
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Large data files (keep processed data only)
+# Large data files (keep only essential processed data)
 data/raw/
+data/processed/*_features.csv
+data/processed/*_processed.csv
 *.zip
 *.tar.gz
+
+# Keep only summary files and essential data
+!data/processed/ml_results.json
+!data/processed/processing_summary.csv
 
 # Screenshots (keep for documentation but not in main repo)
 screenshots/
