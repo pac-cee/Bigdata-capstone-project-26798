@@ -1,11 +1,3 @@
-"""
-Data Processing and Cleaning Module for Cryptocurrency Analysis
-Author: [Your Name]
-Course: INSY 8413 | Introduction to Big Data Analytics
-
-This module handles data cleaning, preprocessing, and preparation for ML models
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

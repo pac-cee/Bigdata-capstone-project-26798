@@ -1,11 +1,3 @@
-"""
-Feature Engineering Module for Cryptocurrency Analysis
-Author: [Your Name]
-Course: INSY 8413 | Introduction to Big Data Analytics
-
-This module creates advanced technical indicators and features for ML models
-"""
-
 import pandas as pd
 import numpy as np
 from typing import Dict, List, Tuple, Optional

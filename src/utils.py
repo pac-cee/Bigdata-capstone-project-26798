@@ -1,9 +1,3 @@
-"""
-Utility functions for cryptocurrency market analysis
-Author: [Your Name]
-Course: INSY 8413 | Introduction to Big Data Analytics
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

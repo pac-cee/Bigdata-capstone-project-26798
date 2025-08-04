@@ -1,11 +1,3 @@
-"""
-Machine Learning Models for Cryptocurrency Analysis
-Author: [pacific]
-Course: INSY 8413 | Introduction to Big Data Analytics
-
-This module implements various ML models for price prediction, direction classification, and volatility forecasting
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

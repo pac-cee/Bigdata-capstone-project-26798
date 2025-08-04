@@ -1,11 +1,3 @@
-"""
-Binance API Data Collector for Cryptocurrency Market Analysis
-Author: [Your Name]
-Course: INSY 8413 | Introduction to Big Data Analytics
-
-This module collects historical cryptocurrency data from Binance Public API
-"""
-
 import requests
 import pandas as pd
 import numpy as np
