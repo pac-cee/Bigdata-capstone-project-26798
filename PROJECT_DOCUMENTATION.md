@@ -1,8 +1,8 @@
 # 📊 Cryptocurrency Market Intelligence System - Project Documentation
 
-**Author**: [Your Name]  
+**Author**: [Pacifique Bakundukize]  
 **Course**: INSY 8413 | Introduction to Big Data Analytics  
-**Institution**: [Your Institution]  
+**Institution**: [AUCA]  
 **Academic Year**: 2024-2025  
 **Date**: July 26, 2025  
 

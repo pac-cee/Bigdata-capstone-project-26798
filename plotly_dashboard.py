@@ -1,14 +1,3 @@
-"""
-Advanced Plotly Dash Dashboard for Cryptocurrency Market Intelligence System
-Author: Pacifique Bakundukize
-Student ID: 26798
-Course: INSY 8413 | Introduction to Big Data Analytics
-Institution: AUCA
-
-This is a comprehensive interactive dashboard using Plotly Dash as a backup to Tableau.
-Run this file to launch a professional web-based dashboard.
-"""
-
 import sys
 import os
 sys.path.append('src')

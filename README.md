@@ -48,11 +48,8 @@ crypto-market-analysis/
 │   ├── feature_engineer.py     # Technical indicators
 │   ├── ml_models.py           # ML model implementations
 │   └── utils.py               # Helper functions
-├── 📈 dashboard/
-│   ├── dashboard_data.csv      # Prepared data for Tableau
-│   └── dashboard_guide.md      # Tableau creation guide
 ├── 🎤 presentation/
-│   └── presentation_outline.md # PowerPoint presentation structure
+│   └── presentation_outline.pdf
 ├── 🌐 index.html              # Interactive HTML dashboard
 ├── 🚀 plotly_dashboard.py     # Advanced Plotly dashboard
 ├── 📋 requirements.txt         # Python dependencies
